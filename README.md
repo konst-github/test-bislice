@@ -1,4 +1,4 @@
-# algotest1
+# test-bislice
 
 Some test project: create an array bi-slicing algorithm.
 
